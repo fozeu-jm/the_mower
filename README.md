@@ -1,9 +1,9 @@
 # Contentsquare Technical Test
 ## Table of Content
-- Problem specification
-- Goal
-- Test
-- Installation
+- [Problem specification](#problem-specification)
+- [Goal](#goal)
+- [Test](#test)
+- [Installation](#installation-guide)
 ## Problem specification
 ContentSquare is building an automatic lawn mower designed to mow rectangular surfaces.(The mower can be programmed to mow the entire surface.)
 
@@ -43,7 +43,8 @@ This output is expected (final positions of mowers):
 
 5 1 E
 
-## Installation
+## Installation Guide
+Make sure you have typescript installed to compile .ts files into .js files
 ```
 git clone https://github.com/fozeu-jm/the_mower.git
 
