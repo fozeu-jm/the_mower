@@ -51,7 +51,7 @@ cd the_mower
 
 npm install
 
-<!-- To run the typescript compiler to compile the .ts files into .js files -->
+<!--To run the typescript compiler to compile the .ts files into .js files-->
 tsc
 
 npm start
