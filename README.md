@@ -3,7 +3,7 @@
 - [Problem specification](#problem-specification)
 - [Goal](#goal)
 - [Test](#test)
-- [Installation](#installation-guide)
+- [Installation Guide](#installation-guide)
 ## Problem specification
 ContentSquare is building an automatic lawn mower designed to mow rectangular surfaces.(The mower can be programmed to mow the entire surface.)
 
