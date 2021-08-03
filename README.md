@@ -23,3 +23,23 @@ An input file following these rules is given to program the mower:
 
 ## Goal
 Design and write a program implementing the above specifications and validating the following test. The evaluation takes in consideration the correct solution but also how you organise your code (abstraction, maintainability, testability etc). You should have a production ready solution.
+
+## Test
+This file is given in input:
+5 5
+1 2 N
+LFLFLFLFF
+3 3 E
+FFRFFRFRRF
+This output is expected (final positions of mowers):
+1 3 N
+5 1 E
+
+## Installation
+```
+git clone https://github.com/fozeu-jm/the_mower.git
+cd the_mower
+npm install
+tsc
+npm start
+```
